@@ -1,11 +1,11 @@
 let siteMetadata = {
-    title: `Elemental`,
+    title: `SUNY xCITE Lab`,
     capitalizeTitleOnHome: true,
-    logo: `/images/logo.png`,
-    icon: `/images/icon.png`,
+    logo: `./images/xciteicon.png`,
+    icon: `./images/xciteicon.png`,
     titleImage: `/images/wall.jpg`,
-    introTag: `PHOTOGRAPHER | VIDEOGRAPHER`,
-    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
+    introTag: `TECHNOLOGY | INNOVATION`,
+    description: `SUNY at Albany's one and only technological research laboratory.`,
     author: `@_akzhy`,
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
@@ -21,12 +21,12 @@ let siteMetadata = {
             url: "/about"
         },
         {
-            name: "BLOG",
-            url: "/blog"
+            name: "PROJECTS",
+            url: "/portfolio"
         },
         {
-            name: "PORTFOLIO",
-            url: "/portfolio"
+            name: "TECHNOLOGY",
+            url: "/blog"
         },
         {
             name: "CONTACT",
@@ -57,7 +57,7 @@ let siteMetadata = {
         {
             name: "Instagram",
             icon: "/images/Instagram.svg",
-            url: "#"
+            url: "https://www.instagram.com/xcitelab/"
         },
         {
             name: "Youtube",
